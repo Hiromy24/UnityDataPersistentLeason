@@ -55,9 +55,9 @@
      <Compile Include="Assets\Scripts\Paddle.cs" />
      <Compile Include="Assets\Scripts\MainManager.cs" />
      <Compile Include="Assets\Scripts\Ball.cs" />
+     <Compile Include="Assets\Scripts\UIManager.cs" />
      <Compile Include="Assets\Scripts\DeathZone.cs" />
      <Compile Include="Assets\Scripts\Brick.cs" />
-     <Compile Include="Assets\Scripts\UIManager.cs" />
      <Compile Include="Assets\Scripts\PersistentManager.cs" />
      <Compile Include="Assets\Scripts\ButtonManager.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

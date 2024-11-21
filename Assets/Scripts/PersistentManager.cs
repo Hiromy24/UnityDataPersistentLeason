@@ -28,7 +28,7 @@ public class PersistentManager : MonoBehaviour
 
     public void LoadRecordScore()
     {
-        string path = Application.persistentDataPath + "/RecordScore.txt";
+        string path = Application.persistentDataPath + "/RecordScore.json";
         if (File.Exists(path))
         {
             string json = File.ReadAllText(path);
